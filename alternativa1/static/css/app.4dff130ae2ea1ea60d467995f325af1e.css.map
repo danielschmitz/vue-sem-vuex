@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.4dff130ae2ea1ea60d467995f325af1e.css"],"names":[],"mappings":"AACA,qBACE,aAAa,AACb,YAAa,AACb,eAAiB,CAClB","file":"app.4dff130ae2ea1ea60d467995f325af1e.css","sourcesContent":["\ndiv[data-v-e8193abc]{\n  padding:30px;\n  margin: 10px;\n  background: #def;\n}\n"]}
