@@ -1,2 +1,7 @@
 # vue-sem-vuex
-3 alternativas ao Vuex, mais simples e diretas
+2 alternativas ao Vuex, mais simples e diretas
+
+## Alternativa 1
+
+Explicação em:
+Demo: https://danielschmitz.com.br/vue-sem-vuex/alternativa1/index.html#/
