@@ -29,6 +29,7 @@ export default {
 <style scoped>
 div{
   padding:30px;
+  margin: 10px;
   background: #def;
 }
 </style>
