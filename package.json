@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/danielschmitz/vue-sem-vuex/issues"
   },
-  "homepage": "https://github.com/danielschmitz/vue-sem-vuex#readme"
+  "homepage": "https://github.com/danielschmitz/vue-sem-vuex#readme",
+  "devDependencies": {
+    "push-dir": "^0.4.1"
+  }
 }
