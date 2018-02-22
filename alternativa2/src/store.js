@@ -7,7 +7,7 @@ const store = {
   },
   set username (str) {
     this._username = str
-    localStorage.setItem('username',str)
+    localStorage.setItem('username', str)
   },
   get username () {
     return this._username || localStorage.getItem('username')
