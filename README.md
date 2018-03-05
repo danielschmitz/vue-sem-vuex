@@ -5,4 +5,8 @@
 
 Acompanhe o artigo completo no blog [Vuejs Brasil](http://www.vuejs-brasil.com.br/alternativas-em-relacao-ao-vuex/)
 
-Demo: https://danielschmitz.com.br/vue-sem-vuex/alternativa1/index.html#/
+Demo2: 
+
+https://danielschmitz.com.br/vue-sem-vuex/alternativa1/index.html#/
+
+https://danielschmitz.com.br/vue-sem-vuex/alternativa2/index.html#/
